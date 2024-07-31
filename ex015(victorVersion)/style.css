@@ -1,0 +1,37 @@
+body {
+    background-color: hsl(216, 100%, 66%);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.61);
+}
+
+div#error {
+    padding: 8px;
+    display: none;
+    color: #ff0000;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+img#imagens {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    display: none;
+}
